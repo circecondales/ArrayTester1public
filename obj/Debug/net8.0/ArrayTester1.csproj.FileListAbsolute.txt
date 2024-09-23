@@ -1,0 +1,14 @@
+C:\Users\circe condales\RiderProjects\ArrayTester1\obj\Debug\net8.0\ArrayTester1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\circe condales\RiderProjects\ArrayTester1\obj\Debug\net8.0\ArrayTester1.AssemblyInfoInputs.cache
+C:\Users\circe condales\RiderProjects\ArrayTester1\obj\Debug\net8.0\ArrayTester1.AssemblyInfo.cs
+C:\Users\circe condales\RiderProjects\ArrayTester1\obj\Debug\net8.0\ArrayTester1.csproj.CoreCompileInputs.cache
+C:\Users\circe condales\RiderProjects\ArrayTester1\bin\Debug\net8.0\ArrayTester1.exe
+C:\Users\circe condales\RiderProjects\ArrayTester1\bin\Debug\net8.0\ArrayTester1.deps.json
+C:\Users\circe condales\RiderProjects\ArrayTester1\bin\Debug\net8.0\ArrayTester1.runtimeconfig.json
+C:\Users\circe condales\RiderProjects\ArrayTester1\bin\Debug\net8.0\ArrayTester1.dll
+C:\Users\circe condales\RiderProjects\ArrayTester1\bin\Debug\net8.0\ArrayTester1.pdb
+C:\Users\circe condales\RiderProjects\ArrayTester1\obj\Debug\net8.0\ArrayTester1.dll
+C:\Users\circe condales\RiderProjects\ArrayTester1\obj\Debug\net8.0\refint\ArrayTester1.dll
+C:\Users\circe condales\RiderProjects\ArrayTester1\obj\Debug\net8.0\ArrayTester1.pdb
+C:\Users\circe condales\RiderProjects\ArrayTester1\obj\Debug\net8.0\ArrayTester1.genruntimeconfig.cache
+C:\Users\circe condales\RiderProjects\ArrayTester1\obj\Debug\net8.0\ref\ArrayTester1.dll
