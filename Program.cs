@@ -21,7 +21,7 @@
     {
         private static void Main()
         {
-            // Create an instance of ArrayTester to call the non-static method
+            // Create an instance of ArrayTester to call the non-static methods
             ArrayTester arrayTester = new ArrayTester();
             
             List<double> result =  arrayTester.ArrayTester1(3, 5);
